@@ -4,7 +4,7 @@ Nama : Decya Giovanni <br>
 NRP : 5025221027 <br>
 Kelas : PBKK D
 
-## Progress #1
+## Writing a Web Application
 View Existing Page
 ![image](https://github.com/user-attachments/assets/bc748643-53f8-4845-9678-bd03a73c4f4b)
 
@@ -19,3 +19,6 @@ Edit New Page
 
 View Edited New Page
 ![image](https://github.com/user-attachments/assets/c9b9ae11-e3bc-4102-b9c4-afef9e552628)
+
+## Accessing a Relational Database
+![Screenshot (1404)](https://github.com/user-attachments/assets/6f3ea4f0-0dbc-40df-bfe3-1d453d354671)
